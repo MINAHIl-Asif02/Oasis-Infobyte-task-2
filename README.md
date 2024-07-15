@@ -1,2 +1,3 @@
-# Info-aidTech-Task2
-my first task as a web developer  intern at info aidtech CALCULATOR
+#OASIS INFO BYTE-Task2
+my Second task as a web developer  intern at oasis Infobyte 
+#CALCULATOR
